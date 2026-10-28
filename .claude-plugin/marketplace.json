@@ -1,0 +1,20 @@
+{
+  "name": "promptmotionsite",
+  "description": "Free Claude skills from Prompt Motion Site for building cinematic, animated and 3D websites.",
+  "owner": {
+    "name": "Prompt Motion Site",
+    "url": "https://promptmotionsite.com"
+  },
+  "plugins": [
+    {
+      "name": "promptmotionsite-web-builder",
+      "source": "./plugins/promptmotionsite-web-builder",
+      "description": "Build cinematic landing pages, animated hero sections and full multi-section websites instead of average AI layouts.",
+      "author": {
+        "name": "Prompt Motion Site"
+      },
+      "homepage": "https://promptmotionsite.com/?utm_source=github&utm_medium=claude-skill&utm_campaign=web-builder",
+      "category": "design"
+    }
+  ]
+}
