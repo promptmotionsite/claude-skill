@@ -1,0 +1,20 @@
+{
+  "name": "promptmotionsite-web-builder",
+  "description": "Build cinematic landing pages and full multi-section websites instead of average AI layouts: 40 full templates from Prompt Motion Site as examples, a media shelf of preview videos, 55+ technique recipes, and a screenshot-and-fix review loop.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Prompt Motion Site",
+    "url": "https://promptmotionsite.com"
+  },
+  "homepage": "https://promptmotionsite.com/?utm_source=github&utm_medium=claude-skill&utm_campaign=web-builder",
+  "keywords": [
+    "web design",
+    "landing page",
+    "hero section",
+    "animated website",
+    "3d website",
+    "lovable",
+    "claude",
+    "skill"
+  ]
+}
